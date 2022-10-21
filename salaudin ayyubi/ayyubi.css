@@ -1,0 +1,101 @@
+
+h1{
+    color: red;
+    border: 30px dashed black;
+    text-align: center;
+    border-width: 30px;
+    padding-left: 70px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+}
+.sam{
+position: fixed;
+top: 150px;
+right: 0px;
+}
+    p{
+        color:black;
+        font-family: Georgia;
+        font-style: italic;
+        font-size: 26px;
+        font-weight: lighter;
+        text-align: justify;
+        margin: 30px;
+        
+    }
+    body{
+        
+        background-color: aqua;
+    background-image: url("./img/salahudin\ img.png");
+    background-repeat: no-repeat;
+    background-position: 550px 150px;
+    background-attachment: fixed;
+    }
+    a:link{
+        color: aqua;
+    }
+    a:hover{
+        color: bisque;
+    }
+    a:active{
+        color: blueviolet;
+    }
+    a:visited{
+        color: brown; 
+    }
+    table{
+        border: 5px solid black;
+        
+    }
+    tr{
+        background-color: brown;
+    }
+    th{
+        color: antiquewhite;
+    }
+   td{
+    border: 2px solid green;
+
+      }
+      span{
+        font-size: 30px;
+        color: red;
+
+      }
+      div{
+        color: blueviolet;
+
+      } 
+      #pera{
+        color: blue;
+      }
+      .ada{
+        color: azure;
+        position: relative;
+        left: 100px;
+        right: 150px;
+
+      }
+      .xyz{
+        color: bisque;
+
+      }
+      pre{
+        color:red;
+      }
+      .mno{
+        color: blueviolet;
+        position: relative;
+        left: 50px;
+        right: 80px;
+
+
+      }
+      div{
+        position: relative;
+        border: 2px solid black;
+        left: 100px;
+        right: 150px;
+      }
